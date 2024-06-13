@@ -96,7 +96,7 @@ docker-compose ps
 شما می‌توانید فایل‌های `docker-compose.yml` و `kibana.yml` را برای پیکربندی بیشتر Elasticsearch و Kibana مطابق با نیازهای خود ویرایش کنید. برای اطلاعات بیشتر، به مستندات Elasticsearch و Kibana مراجعه کنید:
 
 * [مستندات Elasticsearch](https://www.elastic.co/)
-* [پیکر بندی docker Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html/)
+* [پیکر بندی docker Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html)
 * [مستندات Kibana](https://www.elastic.co/guide/en/kibana/current/introduction.html)
 
 ### نتیجه
