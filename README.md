@@ -97,7 +97,7 @@ docker-compose ps
 
 * [مستندات Elasticsearch](https://www.elastic.co/)
 * [مستندات Kibana](https://www.elastic.co/guide/en/kibana/current/introduction.html)
-
+* [پیکر بندی docker Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
 ### نتیجه
 
 شما با موفقیت Elasticsearch و Kibana را با استفاده از Docker در یک محیط محلی راه‌اندازی کرده‌اید. اکنون می‌توانید از Kibana برای تجزیه و تحلیل و کاوش در داده‌های خود با استفاده از قدرت Elasticsearch استفاده کنید.
